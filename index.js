@@ -18,6 +18,7 @@ client.on("ready", () => {
 console.log("The Bot is Ready")
 });
 
+const prefix = process.env.prefix
 
 
 const sett = require('./setting.json')
