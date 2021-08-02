@@ -14,11 +14,20 @@
 2. Create `.env` file
 3. Type this :
 ```
-token=<token bot>
+token=<token-bot>
+prefix=<prefix-bot>
 ```
 4. Go to `setting.json`
 ```
-
+{
+  "channel":"Send Codes Channel Id", 
+  "djs":"Djs Channel id",
+  "line":"Line Link",
+  "dpy":"dpy channel id", 
+  "eris":"Eris channel id", 
+  "bdfd":"bdfd channel id", 
+  "html":"html channel id"
+} 
 ```
 
 ## Support 💠
